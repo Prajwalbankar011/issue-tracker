@@ -1,7 +1,7 @@
 import { NextRequest } from "next/server";
 import {z} from "zod";
 import { NextResponse } from "next/server";
-import { PrismaClient } from "@prisma/client";
+// import { PrismaClient } from "@prisma/client";
 import { prisma } from "../../../prisma/client";
 
 
